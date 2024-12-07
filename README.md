@@ -1,5 +1,5 @@
 
-# Telegram Chat Cleanup Bot
+# Telegram Chat Cleanup
 
 This Python script uses the **Telethon** library to automate the cleanup of unwanted conversations in your Telegram account. It supports the following features:
 - Deletes chats with deleted accounts.
@@ -19,8 +19,8 @@ This Python script uses the **Telethon** library to automate the cleanup of unwa
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-chat-cleanup-bot.git
-   cd telegram-chat-cleanup-bot
+   git clone https://github.com/essopsp/telegram-chat-cleanup.git
+   cd telegram-chat-cleanup
    ```
 
 2. Install the required dependencies:
